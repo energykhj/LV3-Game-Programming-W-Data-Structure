@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/boom.mp3</SourceFile>
+  <SourceFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/boom.mp3</SourceFile>
   <SourceTime>2019-12-03T14:51:53.6655032-05:00</SourceTime>
-  <DestFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/bin/Windows/Sounds/boom.xnb</DestFile>
-  <DestTime>2019-12-05T19:38:05.6141967-05:00</DestTime>
+  <DestFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/bin/Windows/Sounds/boom.xnb</DestFile>
+  <DestTime>2019-12-15T14:09:30.2352751-05:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/bin/Windows/Sounds/boom.wma</string>
+    <string>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/bin/Windows/Sounds/boom.wma</string>
   </BuildOutput>
 </PipelineBuildEvent>

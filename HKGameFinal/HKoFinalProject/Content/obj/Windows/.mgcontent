@@ -4,24 +4,24 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/HilightFont.spritefont</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/RegularFont.spritefont</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/intro.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/back.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/credit.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/ship.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/boom.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/item.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/explosion.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/game.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/gift.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/enemy.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/MessageFont.spritefont</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/levelUp.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/GameOver.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/infoFont.spritefont</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/helpimage.png</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Sounds/boom.mp3</File>
-    <File>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/TitleFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/HilightFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/RegularFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/intro.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/back.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/credit.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/ship.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/boom.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/item.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/explosion.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/game.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/gift.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/enemy.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/MessageFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/levelUp.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/GameOver.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/infoFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/helpimage.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Sounds/boom.mp3</File>
+    <File>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/TitleFont.spritefont</File>
   </SourceFiles>
 </SourceFileCollection>

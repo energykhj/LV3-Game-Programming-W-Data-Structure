@@ -28,7 +28,7 @@ namespace HKoFinalProject
         private GameMessage gameTitleMessage;
         private GameMessage classTitleMessage;
 
-        string[] menuItems = {"Start Game", "Help", "Credit", "Quit"};
+        string[] menuItems = {"Start Game", "High Score", "Help", "Credit", "Quit"};
         public MenuComponent Menu { get => menu; set => menu = value; }
         /// <summary>
         /// Constructor of StartScene

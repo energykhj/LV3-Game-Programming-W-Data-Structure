@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Images/gift.png</SourceFile>
+  <SourceFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Images/gift.png</SourceFile>
   <SourceTime>2019-12-02T17:03:41.5021256-05:00</SourceTime>
-  <DestFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/bin/Windows/Images/gift.xnb</DestFile>
-  <DestTime>2019-12-05T19:38:02.6396977-05:00</DestTime>
+  <DestFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/bin/Windows/Images/gift.xnb</DestFile>
+  <DestTime>2019-12-15T14:09:27.8037755-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

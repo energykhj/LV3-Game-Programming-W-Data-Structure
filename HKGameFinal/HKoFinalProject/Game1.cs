@@ -45,6 +45,7 @@ namespace HKoFinalProject
         private enum Menu
         {
             STARTGAME,
+            HIGHSCORE,
             HELP,
             CREDIT,
             EXIT
@@ -212,7 +213,7 @@ namespace HKoFinalProject
                         Shared.currentLevel = 1;
                         Shared.isPlaySameLevel = 1;
                         actionScene.hide();
-                    }
+                    }                    
                     else
                     {
                         actionScene.hide();

@@ -31,14 +31,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HKoFinalProject.exe" size="93176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HKoFinalProject.exe" size="93688">
       <assemblyIdentity name="HKoFinalProject" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>K2o120D5INKmwUHA47u2u2bV+a/iuj9xahKVkCyJaOw=</dsig:DigestValue>
+        <dsig:DigestValue>6Z2ou0VGLJ0tyyh/adjEMTCJlqKT1CLn/tpg2fdpVns=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

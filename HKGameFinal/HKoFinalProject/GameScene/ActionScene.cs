@@ -204,7 +204,7 @@ namespace HKoFinalProject
 
             // game complete message
             gameCompleteMessage = new GameMessage(game, spriteBatch, messageFont, Color.LightGoldenrodYellow);
-            gameCompleteMessage.Message = "CONGRATURATION!!\n\nGAME COMPLETE\nSPACE TO RE-PLAY, ESC TO MENU";
+            gameCompleteMessage.Message = "CONGRATURATION!!\n\nGAME COMPLETE\nSPACE TO RECORD SCORE, ESC TO MENU";
             messageSize = messageFont.MeasureString(gameCompleteMessage.Message);
             gameCompleteMessage.Position = new Vector2((Shared.stage.X - messageSize.X) / 2, (Shared.stage.Y - messageSize.Y) / 2);
             this.Components.Add(gameCompleteMessage);
@@ -281,11 +281,12 @@ namespace HKoFinalProject
                     MediaPlayer.Stop();
                     MediaPlayer.Play(gameOver);
                     MediaPlayer.IsRepeating = false;
-                    gameOverMessage.Message = "GAME OVER\nSPACE TO RE-PLAY, ESC TO MENU";
+                    gameOverMessage.Message = "GAME OVER\nSPACE TO RE-PALY, ESC TO MENU";
                 }
 
                 gameOverMessage.Enabled = true;
                 gameOverMessage.Visible = true;
+                Shared.isHighScore = false;
                 this.Enabled = false;
             }
             else
@@ -311,7 +312,7 @@ namespace HKoFinalProject
                         levelCompleteMessage.Enabled = true;
                         levelCompleteMessage.Visible = true;
                     }
-
+                    Shared.isHighScore = true;
                     this.Enabled = false;
                 }
             }

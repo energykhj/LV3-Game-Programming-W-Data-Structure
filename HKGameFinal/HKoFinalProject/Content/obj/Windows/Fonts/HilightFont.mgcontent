@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/HilightFont.spritefont</SourceFile>
+  <SourceFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/Fonts/HilightFont.spritefont</SourceFile>
   <SourceTime>2019-12-02T18:02:37.2571828-05:00</SourceTime>
-  <DestFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/bin/Windows/Fonts/HilightFont.xnb</DestFile>
-  <DestTime>2019-12-05T19:37:57.9381667-05:00</DestTime>
+  <DestFile>D:/CPA Level 3/PROG2370-Game/Game Projects/HKGameFinal/HKoFinalProject/Content/bin/Windows/Fonts/HilightFont.xnb</DestFile>
+  <DestTime>2019-12-15T14:09:24.0757472-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

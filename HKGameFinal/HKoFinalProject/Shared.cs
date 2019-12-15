@@ -9,6 +9,7 @@
  */
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,6 +33,9 @@ namespace HKoFinalProject
         public static int ENEMY;
         public static int ENERGY;
         public static bool isPause = false;
+        public static bool isHighScore = false;
+        private const string FILENAME = "scores.txt";
+
 
         private static int highScore = 0;
 
@@ -68,6 +72,30 @@ namespace HKoFinalProject
         public static int GetHighScore()
         {
             return highScore;
+        }
+
+        public static void RecordScores()
+        {
+            StreamWriter writer;
+            FileInfo file = new FileInfo(FILENAME);
+
+            if (!file.Exists)
+            {
+                File.Create(FILENAME);
+            }
+
+            try
+            {
+                writer = new StreamWriter(FILENAME);
+                writer.WriteLine(highScore.ToString());
+            }
+            catch (Exception)
+            {
+                return;
+            }
+
+            if (writer != null)
+                writer.Close();
         }
     }
 }
