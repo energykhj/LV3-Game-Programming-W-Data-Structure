@@ -1,0 +1,166 @@
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.csprojResolveAssemblyReference.cache
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CoreCompileInputs.cache
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CopyComplete
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.exe
+C:\Users\sahmed\Desktop\_SEC 3\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.csprojAssemblyReference.cache
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CopyComplete
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono_incomplete\AllInOneMono\AllInOneMono\obj\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.csprojAssemblyReference.cache
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CopyComplete
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.pdb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.csprojAssemblyReference.cache
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CopyComplete
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.exe
+D:\Dell\PROG2370-Game\InClassPractices\AllInOneMonobyP\AllInOneMono\obj\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\obj\x86\Debug\AllInOneMono.csprojAssemblyReference.cache
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CoreCompileInputs.cache
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\obj\x86\Debug\AllInOneMono.csproj.CopyComplete
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\obj\x86\Debug\AllInOneMono.exe
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\obj\x86\Debug\AllInOneMono.pdb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Content\Images\Bat.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Content\Images\helpImage.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Content\Images\hero.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Content\Fonts\HilightFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Content\Fonts\RegularFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\Intro.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\ape.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\intro.wma
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\back.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\credit.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\ship.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\boom.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\item.wma
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\item.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\boom.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\game.wma
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\game.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\gift.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\MessageFont.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Images\energy-bar.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\levelUp.wma
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\levelUp.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\GameOver.wma
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+D:\CPA Level 3\PROG2370-Game\InClassPractices\AllInOneMono1\AllInOneMono\bin\Windows\x86\Debug\Content\Fonts\infoFont.xnb

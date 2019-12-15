@@ -1,0 +1,12 @@
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.DesignForm.resources
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.MainForm.resources
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.PlayGame.PlayForm.resources
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.csproj.GenerateResource.cache
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\bin\Debug\HKAssignment2.exe.config
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\bin\Debug\HKAssignment2.exe
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\bin\Debug\HKAssignment2.pdb
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.Properties.Resources.resources
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.exe
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.pdb
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.csprojAssemblyReference.cache
+D:\CPA Level 3\PROG2370-Game\Assignments\Assignment2\HandedIt\HKoSokoban\obj\Debug\HKAssignment2.csproj.CoreCompileInputs.cache

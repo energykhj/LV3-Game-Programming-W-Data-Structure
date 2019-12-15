@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/CPA Level 3/PROG2370-Game/InClassPractices/AllInOneMono1/AllInOneMono/Content/Fonts/HilightFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/InClassPractices/AllInOneMono1/AllInOneMono/Content/Fonts/RegularFont.spritefont</File>
+    <File>D:/CPA Level 3/PROG2370-Game/InClassPractices/AllInOneMono1/AllInOneMono/Content/Images/Bat.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/InClassPractices/AllInOneMono1/AllInOneMono/Content/Images/helpImage.png</File>
+    <File>D:/CPA Level 3/PROG2370-Game/InClassPractices/AllInOneMono1/AllInOneMono/Content/Images/hero.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

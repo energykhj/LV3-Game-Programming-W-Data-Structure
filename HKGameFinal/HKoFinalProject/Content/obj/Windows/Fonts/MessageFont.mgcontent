@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/Fonts/MessageFont.spritefont</SourceFile>
+  <SourceTime>2019-12-02T18:15:47.4259127-05:00</SourceTime>
+  <DestFile>D:/CPA Level 3/PROG2370-Game/Final Project/HKoFinalProject/SourceCode/HKoFinalProject/Content/bin/Windows/Fonts/MessageFont.xnb</DestFile>
+  <DestTime>2019-12-05T19:38:02.8484987-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
